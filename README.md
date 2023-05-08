@@ -21,5 +21,5 @@ Penulis melakukan beberapa penyesuaian agar dataset agar data memiliki masalah y
 3. Penulis menghapus beberapa unit observasi agar data menjadi imbalance,
 4. Penulis merubah variabel Gender yang sebelumnya sudah berupa encode 0,1 menjadi kategorikal "Male","Female.
 
-# Refrensi
+## Refrensi
 * [Dataset Awal](https://www.kaggle.com/code/alyeasin/click-on-ad/input)

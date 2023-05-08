@@ -15,7 +15,7 @@ Dataset yang digunakan merupakan data advertising yang didapatkan dari kagle den
 10. Clicked on Ad.
 
 ## Penyesuaian
-Penulis melakukan beberapa penyesuaian agar dataset agar data memiliki masalah yang lebih kompleks dan dapat diolah dengan langkah-langkah yg lebih lengkap sebagai simulasi pengolahan dan permodelan, yaitu.
+Penulis melakukan beberapa penyesuaian agar dataset memiliki masalah yang lebih kompleks dan dapat diolah dengan langkah-langkah yg lebih lengkap sebagai simulasi pengolahan dan permodelan, yaitu.
 1. Penulis menahbahkan variabel Daily Time Spent on Apps yang berkolerasi dengan variabel Daily Time Spent on Site agar muncuk gejala multikolinearitas,
 2. Penulis menghapus beberapa value pada variabel Area Income agar terdapat missing value,
 3. Penulis menghapus beberapa unit observasi agar data menjadi imbalance,
